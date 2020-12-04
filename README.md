@@ -15,7 +15,7 @@ Go to this [repo](https://github.com/forcedotcom/postman-salesforce-apis) and [d
    * `Integer multiply(Integer,Integer)
    * `String divide(Integer,Integer)
       * Example form of answer for 5/3 -> `1 R2`
-
+      
 3. **New Object Config and Build**<br/>
    As a Account Manager, I need to know how how many invoices that are not expired for each account, so that I know which account records are current. 
    Acceptance Criteria:
@@ -32,3 +32,4 @@ Go to this [repo](https://github.com/forcedotcom/postman-salesforce-apis) and [d
    * confirm there is a field on the Account object, called Open Cases, of type number.
    * confirm that whenever a case record is opened, and is associated to an Account record, a calculation is performed for all Cases related to that Account record, where the Case status does NOT equal "Closed" and that value is written to the Open Cases field.
    * confirm that whenever a case record is set to Closed, and is associated to an Account record, a calculation is performed for all Cases related to that Account record, where the case status does not equal "Closed" and that value is written to the Open Cases field.
+
