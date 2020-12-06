@@ -1,0 +1,13 @@
+C:\Users\Chris Glesmann\Documents\Web Development\Salesforce\Challenges\cgrepo\CalculatorTestApp\CalculatorTestApp\obj\Debug\netcoreapp3.1\CalculatorTestApp.csprojAssemblyReference.cache
+C:\Users\Chris Glesmann\Documents\Web Development\Salesforce\Challenges\cgrepo\CalculatorTestApp\CalculatorTestApp\obj\Debug\netcoreapp3.1\CalculatorTestApp.AssemblyInfoInputs.cache
+C:\Users\Chris Glesmann\Documents\Web Development\Salesforce\Challenges\cgrepo\CalculatorTestApp\CalculatorTestApp\obj\Debug\netcoreapp3.1\CalculatorTestApp.AssemblyInfo.cs
+C:\Users\Chris Glesmann\Documents\Web Development\Salesforce\Challenges\cgrepo\CalculatorTestApp\CalculatorTestApp\obj\Debug\netcoreapp3.1\CalculatorTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Chris Glesmann\Documents\Web Development\Salesforce\Challenges\cgrepo\CalculatorTestApp\CalculatorTestApp\bin\Debug\netcoreapp3.1\CalculatorTestApp.exe
+C:\Users\Chris Glesmann\Documents\Web Development\Salesforce\Challenges\cgrepo\CalculatorTestApp\CalculatorTestApp\bin\Debug\netcoreapp3.1\CalculatorTestApp.deps.json
+C:\Users\Chris Glesmann\Documents\Web Development\Salesforce\Challenges\cgrepo\CalculatorTestApp\CalculatorTestApp\bin\Debug\netcoreapp3.1\CalculatorTestApp.runtimeconfig.json
+C:\Users\Chris Glesmann\Documents\Web Development\Salesforce\Challenges\cgrepo\CalculatorTestApp\CalculatorTestApp\bin\Debug\netcoreapp3.1\CalculatorTestApp.runtimeconfig.dev.json
+C:\Users\Chris Glesmann\Documents\Web Development\Salesforce\Challenges\cgrepo\CalculatorTestApp\CalculatorTestApp\bin\Debug\netcoreapp3.1\CalculatorTestApp.dll
+C:\Users\Chris Glesmann\Documents\Web Development\Salesforce\Challenges\cgrepo\CalculatorTestApp\CalculatorTestApp\bin\Debug\netcoreapp3.1\CalculatorTestApp.pdb
+C:\Users\Chris Glesmann\Documents\Web Development\Salesforce\Challenges\cgrepo\CalculatorTestApp\CalculatorTestApp\obj\Debug\netcoreapp3.1\CalculatorTestApp.dll
+C:\Users\Chris Glesmann\Documents\Web Development\Salesforce\Challenges\cgrepo\CalculatorTestApp\CalculatorTestApp\obj\Debug\netcoreapp3.1\CalculatorTestApp.pdb
+C:\Users\Chris Glesmann\Documents\Web Development\Salesforce\Challenges\cgrepo\CalculatorTestApp\CalculatorTestApp\obj\Debug\netcoreapp3.1\CalculatorTestApp.genruntimeconfig.cache
